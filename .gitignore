@@ -26,6 +26,9 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
+# 不上传到 GitHub（仅本地保留）
+format_thesis.py
+
 # PyInstaller
 *.manifest
 warn-*.txt
